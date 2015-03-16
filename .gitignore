@@ -1,0 +1,32 @@
+# Java
+*.class
+*.war
+*.ear
+.mtj.tmp/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Virtual Machine crash logs
+hs_err_pid*
+
+# Local backups
+*.tar.gz
+
+# Local logging configuration
+log4j.xml
+
